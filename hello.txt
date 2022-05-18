@@ -2,3 +2,5 @@ git status-> modified files/ untraced files.
 git clone ->get exact same copy
 git push-> only commited files recently
 git pull-> pull the updated value to local
+git add -A-> to add to staging  area
+git commit -m "Your Message"-> used to add changes to local repo
