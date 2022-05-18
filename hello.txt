@@ -1,1 +1,4 @@
 git status-> modified files/ untraced files.
+git clone ->get exact same copy
+git push-> only commited files recently
+git pull-> pull the updated value to local
